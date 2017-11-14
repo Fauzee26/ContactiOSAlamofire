@@ -1,0 +1,6 @@
+framework module Pods_ContactIOSAlamofire {
+  umbrella header "Pods-ContactIOSAlamofire-umbrella.h"
+
+  export *
+  module * { export * }
+}
